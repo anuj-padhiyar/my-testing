@@ -1,0 +1,2 @@
+Hello this is info file.
+today is 15th May.
